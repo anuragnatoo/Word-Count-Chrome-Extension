@@ -1,5 +1,6 @@
 # Word-Count-Chrome-Extension
 A simple chrome extension to count the number of words in the selected text.
+Can be used to count number of words while filling some important forms which have a minimum word limit.
 
 ## How to use the extensions?
 * Clone the repository
